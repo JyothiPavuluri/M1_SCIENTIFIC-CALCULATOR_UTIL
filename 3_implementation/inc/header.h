@@ -1,6 +1,6 @@
 /**
  * @file header.h
- * @ sivanarayana
+ * @ Nagajyothi Pavuluri
  * @ scietific calculator operations
  */
 #ifndef __header_H__
