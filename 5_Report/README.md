@@ -29,9 +29,7 @@ Matrix Function In this miniproject we implenting some of those features using C
 * Cot : cot() takes a value which is in radian and return cot(x).
 
 ## Defining Our System
-### Architecture:
 
-![SCIENTIFIC CALCULATOR](https://user-images.githubusercontent.com/62956242/153251456-01dc4bc3-4281-4fda-9fba-aa67b1add614.png)
 
 Scientific Calculator application is capable of performing following functions
 * Arithmetic Operations
@@ -55,7 +53,8 @@ Scientific Calculator application is capable of performing following functions
 
 ## SWOT ANALYSIS
 
-![scietific calculator  1](https://user-images.githubusercontent.com/62956242/153256859-e62bc215-410c-4f3c-ac96-2d04029b473c.png
+![swot](https://user-images.githubusercontent.com/101269692/160269519-f06f02c7-bd56-4242-b6bb-eb6d7117f28c.png)
+
 
 # 4W's and 1'H
 ## Who:
