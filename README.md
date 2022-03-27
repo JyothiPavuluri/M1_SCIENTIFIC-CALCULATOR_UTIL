@@ -19,6 +19,10 @@ mini project- SCIENTIFIC CALCULATOR
 
 [![Unit-Testing](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml)
 
+# Cpp-Check
+
+[![Cpp-Check](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Cpp-Check.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Cpp-Check.yml)
+
 ## Codiga and Codacy Badges
 
 ![Code QualityScore](https://api.codiga.io/project/32145/score/svg)
