@@ -15,6 +15,10 @@ mini project- SCIENTIFIC CALCULATOR
 
 [![Valgrind](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Valgrind.yml)
 
+# Unit-Testing
+
+[![Unit-Testing](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml)
+
 ## Codiga and Codacy Badges
 
 ![Code QualityScore](https://api.codiga.io/project/32145/score/svg)
