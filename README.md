@@ -7,6 +7,10 @@ mini project- SCIENTIFIC CALCULATOR
 
 [![CI](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml)
 
+# Build Linux
+
+[![Build Linux](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml)
+
 ## Codiga and Codacy Badges
 
 ![Code QualityScore](https://api.codiga.io/project/32145/score/svg)
