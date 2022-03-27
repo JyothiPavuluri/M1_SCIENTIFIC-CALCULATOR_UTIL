@@ -3,7 +3,9 @@ mini project- SCIENTIFIC CALCULATOR
 
 
  
- 
+# Build Windows
+
+[![CI](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml)
 
 ## Codiga and Codacy Badges
 
