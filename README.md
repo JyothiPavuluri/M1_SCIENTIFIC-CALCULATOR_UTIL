@@ -5,7 +5,11 @@ mini project- SCIENTIFIC CALCULATOR
  
  
 
+## Codiga and Codacy Badges
 
+![Code QualityScore](https://api.codiga.io/project/32145/score/svg)
+
+![Code Grade](https://api.codiga.io/project/32145/status/svg)
 
 ## Folder Structure
 
