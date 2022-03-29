@@ -15,6 +15,6 @@
 
 * Hackerearth-Screenshot
 
-![Hackerearth](![WhatsApp Image 2022-03-26 at 7 58 50 PM](https://user-images.githubusercontent.com/101269692/160631837-5927ef10-aac4-41c7-8a0b-aa3652998dbf.jpeg)
-)
+![WhatsApp Image 2022-03-26 at 7 58 50 PM](https://user-images.githubusercontent.com/101269692/160631837-5927ef10-aac4-41c7-8a0b-aa3652998dbf.jpeg)
+
 
