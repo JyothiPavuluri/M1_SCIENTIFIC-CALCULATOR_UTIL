@@ -1,25 +1,25 @@
 # M1_SCIENTIFIC-CALCULATOR
 mini project- SCIENTIFIC CALCULATOR
 
-
+# SDLC Activity Based Learning
  
-# Build Windows
+## Build Windows
 
 [![CI](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml)
 
-# Build Linux
+## Build Linux
 
 [![Build Linux](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml)
 
-# Valgrind
+## Valgrind
 
 [![Valgrind](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Valgrind.yml)
 
-# Unit-Testing
+## Unit-Testing
 
 [![Unit-Testing](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Unit.yml)
 
-# Cpp-Check
+## Cpp-Check
 
 [![Cpp-Check](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Cpp-Check.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Cpp-Check.yml)
 
