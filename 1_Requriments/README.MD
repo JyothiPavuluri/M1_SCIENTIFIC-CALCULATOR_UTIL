@@ -37,6 +37,7 @@ Matrix Function In this miniproject we implenting some of those features using C
 
 
 Scientific Calculator application is capable of performing following functions
+
 * Arithmetic Operations
    ## a. Addition
    ## b. Subtraction
@@ -44,7 +45,7 @@ Scientific Calculator application is capable of performing following functions
 * Scientific Operations
    ## a. Log base 10
    ## b. Power
-   ## c .Exponent
+   ## c. Exponent
    ## d. Square Root
    ## e. Factorial
    ## f. Division give quotient and remainder
