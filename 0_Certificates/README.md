@@ -3,7 +3,7 @@
 * Sololearn Certificate
 * ndg linux unhatched Certificate
 * Git learning Certificate
-* First day on Github-Screenshot
+* First day Github-Screenshot
 * Hackerearth-Screenshot
 
 
