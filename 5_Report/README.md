@@ -22,8 +22,8 @@ Matrix Function In this miniproject we implenting some of those features using C
 * Power : exponent() takes a value and returns e^ x .
 * Squareroot : squareroot() takes a value and returns √x.
 * Sin : sine() takes a value which is in radian and return sin(x).
-* Cos : cosine() takes a value which is in radian and return cos(x).
-* Tan : ttan() takes a value which is in radian and return tan(x).
+*  Cos : cosine() takes a value which is in radian and return cos(x).
+*  Tan : ttan() takes a value which is in radian and return tan(x).
 * Cosec : cosec() takes a value which is in radian and return cosec(x).
 * Sec : sec() takes a value which is in radian and return sec(x).
 * Cot : cot() takes a value which is in radian and return cot(x).
@@ -36,7 +36,7 @@ Scientific Calculator application is capable of performing following functions
    ## a. Addition
    ## b. Subtraction
    ## c. Multiplication
-* Scientific Operations
+*  Scientific Operations
    ## a. Log base 10
    ## b. Power
    ## c .Exponent
