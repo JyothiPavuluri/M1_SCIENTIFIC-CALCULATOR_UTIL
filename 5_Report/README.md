@@ -68,7 +68,7 @@ Scientific Calculator application is capable of performing following functions
 
 ## When:
 
-* The project can be used when the calculations are required and get the results for basic and Math related problems and the result will be obtained fastly.
+*  The project can be used when the calculations are required and get the results for basic and Math related problems and the result will be obtained fastly.
 
 ## Where:
 
@@ -76,9 +76,9 @@ Scientific Calculator application is capable of performing following functions
  
 ## How:
 
-* The Project is going to be implemented in C language for the Both Windows & Linux OS
+*  The Project is going to be implemented in C language for the Both Windows & Linux OS
 * The constraints of the project are to develop using industry standards with a multi-file approach.
-* The Timeline of the miniproject is 10 days.
+*  The Timeline of the miniproject is 10 days.
 
 # Detail requirements
 
@@ -121,7 +121,7 @@ Scientific Calculator application is capable of performing following functions
  * Used functions to decrease dependency on main function.
  * Used structures and arrays and sorting algorithms to accept the inputs from user and store the values which helped in creating easy design of  scientific calculator.
 * Printf statements have been placed only wherever necessary to avoid confusions.
-* Created header file so that the fuctions can be used else where ever required without any difficulty.
+*  Created header file so that the fuctions can be used else where ever required without any difficulty.
 * Unit testing is done to avoid any computational errors.
 
 
