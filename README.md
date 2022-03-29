@@ -4,7 +4,7 @@
 
 The input includes the command such as we can give numbers based on the operation for example for addition we give 1 as a command and that particular operation works.Moreover, this calculator is smart enough to operate multiplication/division before addition/subtraction/factorial/power/modulas/square/cube, in another word it is implemented with the order of precedence logic.
 
- ## SDLC Activity Based Learning
+ # SDLC Activity Based Learning
  
 ## Build Windows
 
