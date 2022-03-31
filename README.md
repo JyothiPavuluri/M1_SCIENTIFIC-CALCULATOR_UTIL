@@ -32,7 +32,7 @@ The input includes the command such as we can give numbers based on the operatio
 
 ![Code Grade](https://api.codiga.io/project/32145/status/svg)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/37fd99f1de23462d97e196df8597d16b)](https://www.codacy.com/gh/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/a47dad03ede044e3a27074e88e957563)](https://www.codacy.com/gh/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL&amp;utm_campaign=Badge_Grade)
 
 ## Code Inspector
 
