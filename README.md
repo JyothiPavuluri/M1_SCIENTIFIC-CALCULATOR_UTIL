@@ -43,11 +43,12 @@ The input includes the command such as we can give numbers based on the operatio
 
 Folder             | Description
 -------------------| -----------------------------------------
+`0_Certificates`   | All learning certificates of this module
 `1_Requirements`   | Documents detailing requirements and research
 `2_Design`         | Documents specifying design details
-`3_Implementation` | All code and documentation
+`3_Implementation` | Contains the source code and documentation
 `4_Test_plan`      | Documents with test plans and procedures
-
+`5_Report`         | Complete project report
 
 ## Contributors List and Summary
 
