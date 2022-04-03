@@ -8,7 +8,7 @@ The input includes the command such as we can give numbers based on the operatio
  
  Build Linux | Build Windows | Static Check | Dynamic Check | Valgrind | Unity Testing | [Git Inspector](using github.io option)
 ------| ------- |---------- | ------- |------- |-------|--------------
-[![Build Linux](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml) | [![Build Windows](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Windows.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Windows.yml) |
+[![Build Linux](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Linux.yml) | [![Build Windows](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Windows.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Windows.yml) | [![Static Check](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Static.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/Static.yml) |
 
  
  
