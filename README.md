@@ -6,6 +6,21 @@ The input includes the command such as we can give numbers based on the operatio
 
  # SDLC Activity Based Learning
  
+ Build Linux | Build Windows | Static Check | Dynamic Check | Valgrind | Unity Testing | [Git Inspector](using github.io option)
+------| ------- |---------- | ------- |------- |-------|--------------
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ## Build Windows
 
 [![CI](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml/badge.svg)](https://github.com/JyothiPavuluri/M1_SCIENTIFIC-CALCULATOR_UTIL/actions/workflows/main.yml)
